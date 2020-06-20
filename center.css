@@ -49,10 +49,4 @@ body
 	text-transform: all;
 	text-align: center;
 }
-.container img
-{
-	background-image: url('images/Lake.jpg');
-	padding: 25px;
-    background-repeat: no-repeat;
-    background-size: 900px 300px;
-}
+
