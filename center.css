@@ -3,7 +3,7 @@ body
 	background-image: url('images/ToyStory3.jpg');
 	padding: 25px;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: auto;
 }
 .container
 {
