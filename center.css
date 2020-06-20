@@ -10,7 +10,7 @@ body
 	width: 900px; 
 	height: 900px;
 	margin: 100px auto;
-	background: #fff;
+	background: #FFFFF0;
 	position: relative;
 }
 .container h1
@@ -27,7 +27,7 @@ body
 	margin: 0;
 	padding: 0;
 	font-family: arial;
-	font-size: 3;
+	font-size: 1;
 	text-transform: all;
-	text-align: middle;
+	text-align: center;
 }
