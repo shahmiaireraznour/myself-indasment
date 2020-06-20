@@ -37,7 +37,7 @@ body
 	font-size: 2;
 	text-transform: all;
 	text-align: center;
-	display: inline;
+	display: list-item;
 }
 
 
