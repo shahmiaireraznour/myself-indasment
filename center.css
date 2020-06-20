@@ -19,7 +19,7 @@ body
 	padding: 0;
 	font-family: arial;
 	font-size: 3em;
-	text-transform: uppercase;
+	text-transform: all;
 	text-align: center;
 }
 .container p
