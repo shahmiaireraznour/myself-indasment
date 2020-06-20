@@ -8,7 +8,7 @@ body
 .container
 {
 	width: 900px; 
-	height: 900px auto;
+	height: 900px;
 	margin: 100px auto;
 	background: #FFFFF0;
 	position: relative;
