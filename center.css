@@ -40,4 +40,10 @@ body
 	text-transform: all;
 	text-align: center;
 }
+.container img
+{
+	width: 200px;
+	height: 100px;
+	align-items: all;
 
+}
